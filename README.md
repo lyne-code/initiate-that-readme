@@ -20,7 +20,7 @@ A command-line application that dynamically generates a professional README.md f
  
  # License
    $ npx mit-license --name 'lyne-code'
-   MIT License
+  
  
  # Contributing
    Lyne Malele
