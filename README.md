@@ -8,7 +8,7 @@ A command-line application that dynamically generates a professional README.md f
   * [License](https://github.com/lyne-code/initiate-that-readme/blob/master/README.md#license)
   * [Contributing](https://github.com/lyne-code/initiate-that-readme/blob/master/README.md#contributing)
   * [Tests](https://github.com/lyne-code/initiate-that-readme/blob/master/README.md#tests)
-  * [Questions](http://github.com)
+  * [Questions](https://github.com/lyne-code/initiate-that-readme/blob/master/README.md#questions)
   
  # Installation
    * Clone/Fork Repo
