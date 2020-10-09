@@ -19,6 +19,7 @@ A command-line application that dynamically generates a professional README.md f
    This application will allow for quick and easy generation of a project README to get started quickly.
  
  # License
+   $ npx mit-license --name 'lyne-code'
    MIT License
  
  # Contributing
