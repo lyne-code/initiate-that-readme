@@ -19,7 +19,7 @@ A command-line application that dynamically generates a professional README.md f
    This application will allow for quick and easy generation of a project README to get started quickly.
  
  # License
-  npm i mit-license
+ [![License](https://img.shields.io/github/license/macklinu/mit-license.svg)
   
  
  # Contributing
