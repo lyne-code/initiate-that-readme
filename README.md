@@ -20,7 +20,7 @@ A command-line application that dynamically generates a professional README.md f
  
  # License
  ![License](https://img.shields.io/github/license/macklinu/mit-license.svg)
- This application is covered under the MIT License.
+ - This application is covered under the MIT License.
   
  
  # Contributing
