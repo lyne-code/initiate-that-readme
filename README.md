@@ -2,7 +2,7 @@
 A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
 
 # Table of Contents
-  * [Description](http://github.com)
+  * [Description](https://github.com/lyne-code/initiate-that-readme/blob/master/README.md)
   * [Installation](http://github.com)
   * [Usage](http://github.com)
   * [License](http://github.com)
