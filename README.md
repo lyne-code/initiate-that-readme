@@ -32,3 +32,4 @@ A command-line application that dynamically generates a professional README.md f
  # Questions
    * Email: lynemalele@gmail.com
    * Github Username: lyne-code https://github.com/lyne-code
+   * ✉️ Email me with any questions: lynemalele@gmail.com
