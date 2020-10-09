@@ -9,3 +9,24 @@ A command-line application that dynamically generates a professional README.md f
   * Contributing
   * Tests
   * Questions
+  
+ # Installation
+   * Clone/Fork Repo
+   * Run Command npm i
+   * Then node index.js
+ 
+ # Usage
+   This application will allow for quick and easy generation of a project README to get started quickly.
+ 
+ # License
+   MIT License
+ 
+ # Contributing
+   Lyne Malele
+ 
+ # Tests
+   N/A
+ 
+ # Questions
+   * Email - lynemalele@gmail.com
+   * Github Username - lyne-code
