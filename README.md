@@ -1,5 +1,5 @@
 # Description
-A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package 
+A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
 
 # Table of Contents
   * Description
@@ -20,6 +20,7 @@ A command-line application that dynamically generates a professional README.md f
  
  # License
  ![License](https://img.shields.io/github/license/macklinu/mit-license.svg)
+ This application is covered under the MIT License.
   
  
  # Contributing
