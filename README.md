@@ -2,6 +2,8 @@
 A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
 
 # Table of Contents
+  http://github.com - automatic!
+[GitHub](http://github.com)
   * Description
   * Installation
   * Usage
