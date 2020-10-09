@@ -20,7 +20,14 @@ A command-line application that dynamically generates a professional README.md f
  
  # License
   npm i mit-license
-  
+  # Write an MIT License to a file named LICENSE 
+$ npx mit-license --name 'Your Name'
+ 
+# Choose the output file name 
+$ npx mit-license --name 'Your Name' --output License.md
+ 
+# View help information 
+$ npx mit-license --help
  
  # Contributing
    Lyne Malele
