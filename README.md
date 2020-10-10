@@ -16,7 +16,7 @@ A command-line application that dynamically generates a professional README.md f
    * Then node index.js
  
  # Usage
-   This application will allow for quick and easy generation of a project README to get started quickly.
+Run the node index.js in the terminal and a README file will be generated for you from the questions you answer. This application will allow for quick and easy generation of a project README to get started quickly.
  
  # License
  ![License](https://img.shields.io/github/license/macklinu/mit-license.svg)
