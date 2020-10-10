@@ -13,7 +13,6 @@ A command-line application that dynamically generates a professional README.md f
  # Installation
    * Clone/Fork Repo
    * Run Command npm i
-   * Then node index.js
  
  # Usage
 Run the node index.js in the terminal and a README file will be generated for you from the questions you answer. This application will allow for quick and easy generation of a project README to get started quickly.
