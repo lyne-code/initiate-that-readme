@@ -1,7 +1,7 @@
 # Description
 A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
 # Walkthrough Video
- https://github.com/lyne-code/initiate-that-readme/blob/master/index.js%20-%20initiate-that-readme%20-%20Visual%20Studio%20Code%2010_11_2020%201_20_48%20AM.png
+ ![Test Image 1](https://github.com/lyne-code/initiate-that-readme/blob/master/index.js%20-%20initiate-that-readme%20-%20Visual%20Studio%20Code%2010_11_2020%201_20_48%20AM.png)
  
 # Table of Contents
   * [Description](https://github.com/lyne-code/initiate-that-readme/blob/master/README.md#description)
